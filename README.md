@@ -21,4 +21,4 @@ registration and submissions:
  * [2017, IU Bloomington](http://wonks.github.io/mwpls/fall2017/2017/10/16/mwpls.html)
  * ...
  * [2024, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2024/)
- * [2025, University of Minnesota](2026/)
+ * [2025, University of Minnesota](2026/README.md)
