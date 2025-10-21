@@ -19,4 +19,6 @@ registration and submissions:
  * [2015, Purdue](http://purdue-pl.github.io/PLSummit/)
  * [2016, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2016/)
  * [2017, IU Bloomington](http://wonks.github.io/mwpls/fall2017/2017/10/16/mwpls.html)
-
+ * ...
+ * [2024, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2024/)
+ * [2025, University of Minnesota](2026/)
