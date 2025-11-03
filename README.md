@@ -1,4 +1,4 @@
-# Midwest Programming Language Summit
+# Midwest Programming Languages Summit
 
 The Midwest PL Summit is a series of informal workshops to foster the exchange
 of ideas and to promote collaboration among faculty and students in
@@ -21,3 +21,5 @@ registration and submissions:
  * [2023, University of Michigan](https://mwpls2023.engin.umich.edu/)
  * [2024, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2024/)
  * [2025, University of Minnesota](https://2025.mwpls.org)
+
+
