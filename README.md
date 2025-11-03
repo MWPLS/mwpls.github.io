@@ -23,6 +23,7 @@ recent MWPLS workshops are provided below:
 * [2015, Purdue](http://purdue-pl.github.io/PLSummit/)
  * [2016, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2016/)
  * [2017, IU Bloomington](http://wonks.github.io/mwpls/fall2017/2017/10/16/mwpls.html)
+ * [2018, University of Wisconsin, Madison](https://cseweb.ucsd.edu/~ldantoni/midwest-pl-summit18/index.html)
  * [2019, Purdue University](https://purpl.cs.purdue.edu/kickoff.html)
  * [2023, University of Michigan](https://mwpls2023.engin.umich.edu/)
  * [2024, University of Chicago](http://pl.cs.uchicago.edu/PLSummit/2024/)
