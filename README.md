@@ -1,8 +1,6 @@
-# mwpls.github.io
+# Midwest Programming Language Summit
 
-This is a landing page for Midwest PL Summit.
-
-The Midwest PL Summit is an informal workshop to foster the exchange
+The Midwest PL Summit is a series of informal workshops to foster the exchange
 of ideas and to promote collaboration among faculty and students in
 the Greater Midwest area. Anyone interested in programming languages
 and compilers — including applications to areas such as systems,
